@@ -5,21 +5,24 @@ In today’s commercial world, there is high competition and every customer is v
 
 # Data Understanding
 
-  """__INTRODUCTION:__
-  The table below gives a description on the variables required to make predictions.
-    | Variable      | Definition:       |
-    | :------------ |:--------------- |
-    | FREQUENCE     | number of times the client has made an income |
-    | TENURE        | duration in the network |
-    | FREQUENCE_RECH| number of times the customer refilled |
-    | MONTANT       | top-up amount   |
-    | DATA_VOLUME   | number of connections|
-    | ORANGE        | call to orange |
-    | ARPU_SEGMENT  | income over 90 days / 3 |
-    | ON_NET        | inter expresso call |
-    | REGULARITY    | number of times the client is active for 90 days   |
-    | FREQ_TOP_PACK | number of times client has activated the top pack packages|
-    | REVENUE       | monthly income of each client   |"""
+- FREQUENCE: number of times the client has made an income
+- TENURE: duration in the network
+- FREQUENCE_RECH: number of times the customer refilled
+- MONTANT: top-up amount
+- DATA_VOLUME: number of connections
+- ORANGE: call to orange
+- ARPU_SEGMENT: income over 90 days / 3
+- ON_NET : inter expresso call
+- REGULARITY: number of times the client is active for 90 days
+- TOP_PACK:	The most active packs
+- FREQ_TOP_PACK: number of times client has activated the top pack packages
+- REVENUE: monthly income of each client
+- TIGO:	call to Tigo
+- ZONE1: call to zones1
+- ZONE2:	call to zones2
+- MRG:	A client who is going
+- REGION: The location of each client
+- CHURN	variable: variable to predict - Target
     
 ## Author:
 [FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
