@@ -5,8 +5,7 @@ In today’s commercial world, there is high competition and every customer is v
 
 # Data Understanding
 
-"""
-    The table below gives a description on the variables required to make predictions.
+   """ The table below gives a description on the variables required to make predictions.
     | Variable      | Definition:       |
     | :------------ |:--------------- |
     | FREQUENCE     | number of times the client has made an income |
@@ -19,8 +18,7 @@ In today’s commercial world, there is high competition and every customer is v
     | ON_NET        | inter expresso call |
     | REGULARITY    | number of times the client is active for 90 days   |
     | FREQ_TOP_PACK | number of times client has activated the top pack packages|
-    | REVENUE       | monthly income of each client   |
-    """
+    | REVENUE       | monthly income of each client   |"""
     
 ## Author:
 [FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
