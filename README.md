@@ -5,7 +5,8 @@ In today’s commercial world, there is high competition and every customer is v
 
 # Data Understanding
 
-   """ The table below gives a description on the variables required to make predictions.
+  """__INTRODUCTION:__
+  The table below gives a description on the variables required to make predictions.
     | Variable      | Definition:       |
     | :------------ |:--------------- |
     | FREQUENCE     | number of times the client has made an income |
